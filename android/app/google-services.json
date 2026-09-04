@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "543881319998",
+    "project_id": "dream-7708f",
+    "storage_bucket": "dream-7708f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543881319998:android:7e8695332d11d5b2b4e36f",
+        "android_client_info": {
+          "package_name": "com.dream.dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543881319998-4rbqvp6cd1hbqc4b9gp5dkq4qerb6d4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDOlRoi6_X4fkd5K-R_J438R1HUlGpYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543881319998-4rbqvp6cd1hbqc4b9gp5dkq4qerb6d4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543881319998-fds9m8952m98bgafrrtkrm469g5l25c9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotifyclone.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543881319998:android:2b18fd0ac0d1a0a6b4e36f",
+        "android_client_info": {
+          "package_name": "com.spotifyclone.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543881319998-9vu4e4aep901mit54m2umgth1r218oq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotifyclone.flutter_app",
+            "certificate_hash": "b012f783eba4a777cb811c92757f7243bb6f66f7"
+          }
+        },
+        {
+          "client_id": "543881319998-4rbqvp6cd1hbqc4b9gp5dkq4qerb6d4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDOlRoi6_X4fkd5K-R_J438R1HUlGpYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543881319998-4rbqvp6cd1hbqc4b9gp5dkq4qerb6d4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543881319998-fds9m8952m98bgafrrtkrm469g5l25c9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotifyclone.flutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
