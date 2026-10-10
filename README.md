@@ -1,17 +1,17 @@
-# 🎵 Spotify Clone - Flutter
+#  Spotify Clone - Flutter
 
 A feature-rich, full-stack cross-platform Spotify clone built with **Flutter**, **Firebase**, and **Riverpod**.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- **🎧 Seamless Audio Streaming**: Background audio playback, continuous queue management, looping, seeking, and lock-screen notification controls via `just_audio` & `just_audio_background`.
-- **📱 Spotify-Inspired UI**: Beautiful dark theme with Spotify green accents (`#1DB954`), gradient greeting headers, and responsive layouts.
-- **🔍 Dynamic Search & Discovery**: Instant search across tracks and artists, along with vibrant category tiles.
-- **📚 Library & Playback History**: Track recently played songs and user library state in real-time.
-- **🛠️ Admin Dashboard**: Dedicated portal for administrators to upload songs/albums (audio files + album art) and view live dashboard analytics.
-- **🔐 Firebase Authentication**: Seamless Google Sign-In and Firestore profile persistence.
+- ** Seamless Audio Streaming**: Background audio playback, continuous queue management, looping, seeking, and lock-screen notification controls via `just_audio` & `just_audio_background`.
+- ** Spotify-Inspired UI**: Beautiful dark theme with Spotify green accents (`#1DB954`), gradient greeting headers, and responsive layouts.
+- ** Dynamic Search & Discovery**: Instant search across tracks and artists, along with vibrant category tiles.
+- ** Library & Playback History**: Track recently played songs and user library state in real-time.
+- ** Admin Dashboard**: Dedicated portal for administrators to upload songs/albums (audio files + album art) and view live dashboard analytics.
+- ** Firebase Authentication**: Seamless Google Sign-In and Firestore profile persistence.
 
 ---
 
